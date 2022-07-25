@@ -5,15 +5,14 @@
              border: 1px solid silver;
              border-radius: 10px;
              text-align: center;
-             padding-top: 10px;
-             
+             padding-top: 10px;         
           }
           
-#anaDiv {  
+#anaDiv{  
 	        width: 330px;  
           }
           
-.div {
+.div{
 	        float: left;  
 	               
           }
@@ -22,15 +21,18 @@
               position: absolute;
               right: 33px;
           }
+
 .dgr{
     text-align: right;
 }
+
 #table{
     border: 1px solid black;
     text-align: center;
     font-weight: bold;
     margin-top:35px;
 }
+
 .footer{
     background-color: black;
     color: white;
@@ -38,21 +40,17 @@
     text-align: center;
     padding-top:  10px;
 }
+
 #list{
              background-color: #eceff1;
              width: 316px;
              height: 310px;
              text-align: center;            
 }
+
 #bilgi{
              background-color: white;
              width: 316px;
              height: 90px;
              font-weight: bold; 
-}
-#table2{
-    margin-top: 10px;
-    border: 1px solid black;
-    height: 5px;
-    background-color: #F8F8FF;
 }
