@@ -1,4 +1,5 @@
 Sektörü giyim olan bir  e-ticaret sitesinin ürünler ve ürün detay bilgilerinin yer aldığı tasarım çalışmasıdır. 
+
 ![p1](https://user-images.githubusercontent.com/43750397/180750602-b4abb42a-b71e-4281-bf0b-a2101b5ff688.png)
 
 ![p2](https://user-images.githubusercontent.com/43750397/180750625-96856c02-a783-4b20-9b17-621128dd8940.png)
